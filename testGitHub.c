@@ -4,7 +4,7 @@
 int main(){
 
 		
-		printf("Have a nice day!");
+		printf("HAVE A NICE DAY! :) ");
 		
 		return 0;
 }
